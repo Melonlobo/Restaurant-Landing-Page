@@ -6,4 +6,4 @@
 
 ![Restaurant Landing Page](./thumbnail.png)
 
-### [Click here]() to see the deployed website.
+### [Click here](https://restaurant-landing-page-melonlobo.vercel.app) to see the deployed website.
